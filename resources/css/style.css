@@ -25,20 +25,20 @@ p {
   font-size: 14px;
 }
 
-.btn-nav {
+.footer {
+  background-color: dimgray;
   color: white;
-  font-size: 18px;
+  font-size: 11px;
+  text-align: left;
 }
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
 }
 
-.footer {
-  background-color: dimgray;
+.nav {
   color: white;
-  font-size: 11px;
-  text-align: left;
+  font-size: 18px;
 }
 
 #break {
