@@ -9,7 +9,6 @@ h1 {
   color: white;
   font-size: 70px;
   font-weight: bold;
-  text-align: center;
 }
 
 h2 {
@@ -26,22 +25,23 @@ p {
   font-size: 14px;
 }
 
-.header {
-  background-image: url("../images/the-flatiron-building.png");
-  /*background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
-}
-
-.header a {
+.btn-nav {
   color: white;
   font-size: 18px;
 }
 
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
 #break {
   background-image: url("../images/the-flatiron-building.png");
-  /*background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
   color: white;
 }
